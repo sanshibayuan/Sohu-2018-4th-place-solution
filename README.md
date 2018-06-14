@@ -47,8 +47,7 @@ Task3：Image Classification
 Futher Thoughts
 --
 - Use pre-trained Chinese word-vectors https://github.com/Embedding/Chinese-Word-Vectors
-- Use word2vec vector in embedding layer
 - Any better way to classify images like these?
 - Implement seq2seq in text_extract
-- How to use these unlabel data better? Autoencoder/Dual Learning/Semi-supervised Learning
+- Semi-supervised Learning
 
