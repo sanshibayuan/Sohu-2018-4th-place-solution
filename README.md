@@ -1,5 +1,5 @@
-﻿# Sohu-2018
-2018 搜狐内容识别算法大赛
+﻿# Sohu-2018-4th-place-solution
+2018 搜狐内容识别算法大赛 
 
 # Overview
 
@@ -44,10 +44,4 @@ Task3：Image Classification
 
 
 
-Futher Thoughts
---
-- Use pre-trained Chinese word-vectors https://github.com/Embedding/Chinese-Word-Vectors
-- Any better way to classify images like these?
-- Implement seq2seq in text_extract
-- Semi-supervised Learning
-
+See more detail in my blog https://sanshibayuan.github.io/
